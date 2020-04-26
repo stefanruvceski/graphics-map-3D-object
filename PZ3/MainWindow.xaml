@@ -1,0 +1,32 @@
+﻿<Window x:Class="PZ3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PZ3"
+        mc:Ignorable="d"
+        Title="MainWindow"  Name="mainWindow" WindowStartupLocation="CenterScreen" WindowState="Maximized" >
+
+    <DockPanel Background="Black">
+        <ScrollViewer  Name="scrollViewer" HorizontalScrollBarVisibility="Hidden"  VerticalScrollBarVisibility="Hidden" PreviewMouseLeftButtonDown="scrollViewer_PreviewMouseLeftButtonDown" PreviewMouseMove="scrollViewer_PreviewMouseMove" PreviewMouseLeftButtonUp="scrollViewer_PreviewMouseLeftButtonUp" PreviewMouseWheel="scrollViewer_PreviewMouseWheel">
+            <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Canvas Name="myCanvas" Width="1500" Height="800">
+					<Image Source="E:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\Images\substation.png" Height="15" Width="15" Canvas.Left="10" Canvas.Top="10"/>
+					<Image Source="E:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\Images\switch1.png" Height="15" Width="15" Canvas.Left="10" Canvas.Top="30"/>
+					<Image Source="E:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\Images\node1.png" Height="15" Width="15" Canvas.Left="10" Canvas.Top="50"/>
+					<Image Source="E:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\Images\horizontalLine.png" Height="16" Width="15" Canvas.Left="10" Canvas.Top="70"/>
+
+                    <TextBlock Text="Substation" FontSize="12" Foreground="White" Canvas.Left="44" Canvas.Top="10" Height="15" Width="66"/>
+                    <TextBlock Text="Switch" FontSize="12" Foreground="White" Canvas.Left="44" Canvas.Top="30" Height="16" Width="55"/>
+                    <TextBlock Text="Node" FontSize="12" Foreground="White" Canvas.Left="44" Canvas.Top="51" Height="14" Width="49"/>
+                    <TextBlock Text="Vertice" FontSize="12" Foreground="White" Canvas.Left="44" Canvas.Top="69" Height="14" Width="49"/>
+                    <Path Name="path" Stroke="Black" StrokeThickness="1"></Path>
+                    <Border BorderThickness="0.5" BorderBrush="White">
+                        <Image  Name="mainScreen" ></Image>
+                    </Border>
+
+                </Canvas>
+            </Border>
+        </ScrollViewer>
+    </DockPanel>
+</Window>

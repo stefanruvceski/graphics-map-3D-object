@@ -1,0 +1,44 @@
+C:\Users\Stefan\Desktop\PZ3\PZ3\bin\Release\PZ3.exe.config
+C:\Users\Stefan\Desktop\PZ3\PZ3\bin\Release\PZ3.exe
+C:\Users\Stefan\Desktop\PZ3\PZ3\bin\Release\PZ3.pdb
+C:\Users\Stefan\Desktop\PZ3\PZ3\obj\Release\MainWindow.g.cs
+C:\Users\Stefan\Desktop\PZ3\PZ3\obj\Release\App.g.cs
+C:\Users\Stefan\Desktop\PZ3\PZ3\obj\Release\PZ3_MarkupCompile.cache
+C:\Users\Stefan\Desktop\PZ3\PZ3\obj\Release\PZ3_MarkupCompile.lref
+C:\Users\Stefan\Desktop\PZ3\PZ3\obj\Release\MainWindow.baml
+C:\Users\Stefan\Desktop\PZ3\PZ3\obj\Release\PZ3.g.resources
+C:\Users\Stefan\Desktop\PZ3\PZ3\obj\Release\PZ3.Properties.Resources.resources
+C:\Users\Stefan\Desktop\PZ3\PZ3\obj\Release\PZ3.csproj.GenerateResource.cache
+C:\Users\Stefan\Desktop\PZ3\PZ3\obj\Release\PZ3.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\PZ3\PZ3\obj\Release\PZ3.exe
+C:\Users\Stefan\Desktop\PZ3\PZ3\obj\Release\PZ3.pdb
+C:\Users\Stefan\Desktop\PZ3\PZ3\obj\Release\PZ3.csprojAssemblyReference.cache
+D:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\bin\Release\PZ3.exe.config
+D:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\bin\Release\PZ3.exe
+D:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\bin\Release\PZ3.pdb
+D:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\obj\Release\MainWindow.g.cs
+D:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\obj\Release\App.g.cs
+D:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\obj\Release\PZ3_MarkupCompile.cache
+D:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\obj\Release\PZ3_MarkupCompile.lref
+D:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\obj\Release\MainWindow.baml
+D:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\obj\Release\PZ3.g.resources
+D:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\obj\Release\PZ3.Properties.Resources.resources
+D:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\obj\Release\PZ3.csproj.GenerateResource.cache
+D:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\obj\Release\PZ3.csproj.CoreCompileInputs.cache
+D:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\obj\Release\PZ3.exe
+D:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\obj\Release\PZ3.pdb
+D:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\obj\Release\PZ3.csprojAssemblyReference.cache
+E:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\bin\Release\PZ3.exe.config
+E:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\bin\Release\PZ3.exe
+E:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\bin\Release\PZ3.pdb
+E:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\obj\Release\MainWindow.g.cs
+E:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\obj\Release\App.g.cs
+E:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\obj\Release\PZ3_MarkupCompile.cache
+E:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\obj\Release\PZ3_MarkupCompile.lref
+E:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\obj\Release\MainWindow.baml
+E:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\obj\Release\PZ3.g.resources
+E:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\obj\Release\PZ3.Properties.Resources.resources
+E:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\obj\Release\PZ3.csproj.GenerateResource.cache
+E:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\obj\Release\PZ3.csproj.CoreCompileInputs.cache
+E:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\obj\Release\PZ3.exe
+E:\FTN\IV Godina\VII Semestar\Blok5 (Racunarska Grafika)\Projects\PZ3\PZ3\obj\Release\PZ3.pdb
